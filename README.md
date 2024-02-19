@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anandchikka
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Science domain
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science domain including ML
 - 💞️ I’m looking to collaborate on projects and learn from them
-- 📫 How to reach me nikhilchikka@gmail.com
+- 📫 How to reach me: nikhilchikka@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
